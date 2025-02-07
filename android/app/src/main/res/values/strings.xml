@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">carsica</string>
+  <string name="expo_system_ui_user_interface_style" translatable="false">automatic</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="server_client_id" translatable="false">895749535625-t28o9h14vjqkvtq3c87btbaeqhufmgf2.apps.googleusercontent.com</string>
+</resources>
